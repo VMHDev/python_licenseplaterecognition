@@ -1,5 +1,4 @@
-# python_licenseplaterecognition
-Project Python License Plate Recognition
+# <div align="center">Đồ án môn học Máy học - Nhận diện biển số xe</div>
 # I) Mở đầu:
 ## 1) Phạm vi:
 Trong nội dung của đồ án tập trung xử lý vào các đối tượng sau:
@@ -100,6 +99,7 @@ Các bước thực hiện:
 |50 |	3|	6%|  
 |100|	9|	9%|  
 |150|	13|	8.67%|
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/159324265@N07/50262421516/in/album-72157715614150392/" title="LPR_10"><img src="https://live.staticflickr.com/65535/50262421516_7df13ef168.jpg" width="500" height="229" alt="LPR_10"></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/159324265@N07/50262421501/in/album-72157715614150392/" title="LPR_11"><img src="https://live.staticflickr.com/65535/50262421501_6a51913398.jpg" width="500" height="231" alt="LPR_11"></a>
@@ -244,7 +244,7 @@ Các bước thực hiện:
 
 # VII) Source code:
 Do file source code chứa các file train dữ liệu và model kích thước lớn nên upload lên google drive.
-http://bit.ly/VMHLPR123  
+https://bit.ly/VMHDLPR789 
 Cấu trúc thư mục như sau:  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/159324265@N07/50262609742/in/album-72157715614150392/" title="LPR_49"><img src="https://live.staticflickr.com/65535/50262609742_e901139251.jpg" width="500" height="116" alt="LPR_49"></a>
 
