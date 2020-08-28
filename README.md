@@ -1,4 +1,4 @@
-# <div align="center">Đồ án môn học Máy học - Nhận diện biển số xe</div>
+# <div align="center">Đồ án môn học Máy học - Nhận diện biển số xe <br/> Nhóm 06</div>
 # I) Mở đầu:
 ## 1) Phạm vi:
 Trong nội dung của đồ án tập trung xử lý vào các đối tượng sau:
@@ -18,7 +18,7 @@ Theo thông tư số 36/2010/TT-BCA của Bộ Công an ngày 12/10/2010:
     - Tiếp theo là sê ri đăng ký (chữ cái) gồm 20 chữ cái A, B, C, D, E, F, G, H, K, L, M, N, P, S, T, U, V, X, Y, Z
     - Nhóm số thứ hai là thứ tự xe đăng ký gồm 05 chữ số tự nhiên từ 000.01 đến 999.99  
 **Lưu ý:** Đây là những thông tin cơ bản cần thiết cho việc nhận diện biển số. Cụ thể có thể tham khảo thêm trong phần tham khảo <sup>[[01]](#L1)[[02]](#L2)</sup>  
- Biển số xe Việt Nam gồm 9 kí tự (không tính dấu chấm) bao gồm 10 kí tự số từ 0 đến 9 và gồm 20 kí tự chữ , B, C, D, E, F, G, H, K, L, M, N, P, S, T, U, V, X, Y, Z
+-> Biển số xe Việt Nam gồm 9 kí tự (không tính dấu chấm) bao gồm 10 kí tự số từ 0 đến 9 và gồm 20 kí tự chữ , B, C, D, E, F, G, H, K, L, M, N, P, S, T, U, V, X, Y, Z
 Các bước thực hiện:
 # II) Các bước thực hiện:
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/159324265@N07/50262368986/in/dateposted-friend/" title="LPR_01"><img src="https://live.staticflickr.com/65535/50262368986_a0d67b7ccb_c.jpg" width="800" height="617" alt="LPR_01">
