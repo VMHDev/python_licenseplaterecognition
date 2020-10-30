@@ -243,8 +243,8 @@ Các bước thực hiện:
 - Mô hình SVM không phải là không tốt mà do việc tiền xử lý chưa tối ưu cho SVM mà tập trung cho CNN nên kết quả mới thấp
 
 # VII) Source code:
-Do file source code chứa các file train dữ liệu và model kích thước lớn nên upload lên google drive.
-https://bit.ly/VMHDLPR789 
+Do file source code chứa các file train dữ liệu và model kích thước lớn nên upload lên google drive. 
+http://bit.ly/VMHLPR96 
 Cấu trúc thư mục như sau:  
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/159324265@N07/50262609742/in/album-72157715614150392/" title="LPR_49"><img src="https://live.staticflickr.com/65535/50262609742_e901139251.jpg" width="500" height="116" alt="LPR_49"></a>
 
